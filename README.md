@@ -14,14 +14,14 @@
 ---
 
 <!-- credits for gif https://tenor.com/3o2m.gif -->
-<img align="right" height="150" width="210" src="giphy.gif"> 
+<img align="right" height="150" width="210" src="tenor.gif"> 
 
-- 🔭 **I’m currently working on:** Learning Python , Upskilling in Cyber Security 
-- 🌱 **I’m currently learning:** Infosec
-- 👯 **I’m looking to collaborate on:** Cyber Security projects/competitions
-- 💬 **Ask me about:** Cyber Security, memes, kdramas, Netflix , 
-- ⚡ **Hobbies:** books, internet, music, series , Googling
-- 😄 **Pronouns:** he/him
+- 🔭 **I’m currently working on:** ML models
+- 🌱 **I’m currently learning:** Big-Data-Hadoop-and-Spark-Developer
+- 👯 **I’m looking to collaborate on:** Projects related to Data Science , Business Analytics.
+- 💬 **Ask me about:** Data , Memes , Netflix , Programming , Marvels Universe .
+- ⚡ **Hobbies:** Books, Internet , Music , Netflix , Googling .
+- 😄 **Pronouns:** He/Him
 
 ---
 
