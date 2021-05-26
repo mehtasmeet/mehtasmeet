@@ -5,11 +5,11 @@
    <a href="https://www.linkedin.com/in/mehtasmeet/"><img alt="LinkedIn" src="https://img.shields.io/badge/-mehtasmeet-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mehtasmeet/"></a>
    <a href="https://twitter.com/smeetmehta_"><img alt="Twitter" src="https://img.shields.io/badge/-@smeetmehta_-black?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/smeetmehta_"></a>
    <a href="mailto:email@mehtasmeet.com"><img alt="E-Mail" src="https://img.shields.io/badge/-email@mehtasmeet.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:email@mehtasmeet.com"></a>
-   <a href="https://medium.com/@pancholiurvish"><img alt="Medium" src="https://img.shields.io/badge/-@pancholiurvish-03a57a?style=flat-square&color=000000&labelColor=000000&logo=Medium&link=https://medium.com/@pancholiurvish"></a>
+   <a href="https://medium.com/@mehtasmeet"><img alt="Medium" src="https://img.shields.io/badge/-@mehtasmeet-03a57a?style=flat-square&color=000000&labelColor=000000&logo=Medium&link=https://medium.com/@pancholiurvish"></a>
    
 </p>
 
-<h3 align="left">   Pen tester | MCT | CEH | CHFI | JNCIAx3 | CCNA | Scrum Foundation | MCSA | CompTIAx3 | Aviatrix | EC-Councilx4 | Microsoftx4 | White Belt certified | Web Developer | Programmer | Internet citizen. </h3>
+<h3 align="left">   | Data Cleaning | Data Exploration | Data Manipulation | Data Visualization | SQL | Python | Data Analysis | Data Methodology | Data Privacy | R Programming | Data Studio | Microsoft x 5 | SAS | Tableau | Power BI | Machine Learning | Big Data | Data Science | Hadoop | Business Analytics | Apache Kafka | Six Sigma- White /Yellow Belt | Jira | Agile Scrum Master (ASM®) |  CBAP® | CCBA® | AWS | Azure | Programmer | Internet citizen. </h3>
 
 ---
 
