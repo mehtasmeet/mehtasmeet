@@ -2,9 +2,9 @@
 
 <p align="left">
    <a href="https://mehtasmeet.com/"><img alt="Portfolio" src="https://img.shields.io/badge/-mehtasmeet.com-black?style=flat-square&logo=squarespace&logoColor=white&link=https://mehtasmeet.com/"></a>
-   <a href="https://www.linkedin.com/in/smeetmehta/"><img alt="LinkedIn" src="https://img.shields.io/badge/-smeetmehta-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/smeetmehta/"></a>
-   <a href="https://twitter.com/pancholiurvish"><img alt="Twitter" src="https://img.shields.io/badge/-@pancholiurvish-black?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/pancholiurvish"></a>
-   <a href="mailto:info@urvishpancholi.com"><img alt="E-Mail" src="https://img.shields.io/badge/-info@urvishpancholi.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:info@urvishpancholi.com"></a>
+   <a href="https://www.linkedin.com/in/mehtasmeet/"><img alt="LinkedIn" src="https://img.shields.io/badge/-mehtasmeet-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mehtasmeet/"></a>
+   <a href="https://twitter.com/smeetmehta_"><img alt="Twitter" src="https://img.shields.io/badge/-@smeetmehta_-black?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/smeetmehta_"></a>
+   <a href="mailto:email@mehtasmeet.com"><img alt="E-Mail" src="https://img.shields.io/badge/-email@mehtasmeet.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:email@mehtasmeet.com"></a>
    <a href="https://medium.com/@pancholiurvish"><img alt="Medium" src="https://img.shields.io/badge/-@pancholiurvish-03a57a?style=flat-square&color=000000&labelColor=000000&logo=Medium&link=https://medium.com/@pancholiurvish"></a>
    
 </p>
