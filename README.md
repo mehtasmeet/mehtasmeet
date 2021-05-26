@@ -6,10 +6,7 @@
    <a href="https://twitter.com/smeetmehta_"><img alt="Twitter" src="https://img.shields.io/badge/-@smeetmehta_-black?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/smeetmehta_"></a>
    <a href="mailto:email@mehtasmeet.com"><img alt="E-Mail" src="https://img.shields.io/badge/-email@mehtasmeet.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:email@mehtasmeet.com"></a>
    <a href="https://medium.com/@mehtasmeet"><img alt="Medium" src="https://img.shields.io/badge/-@mehtasmeet-03a57a?style=flat-square&color=000000&labelColor=000000&logo=Medium&link=https://medium.com/@mehtasmeet"></a>
-   
-   ---
-   
-  <!--  Linkedin badge <a href="https://www.linkedin.com/in/mehtasmeet/"><img alt="LinkedIn" src="https://img.shields.io/badge/-mehtasmeet-696969?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mehtasmeet/"></a> -->
+     <!--  Linkedin badge <a href="https://www.linkedin.com/in/mehtasmeet/"><img alt="LinkedIn" src="https://img.shields.io/badge/-mehtasmeet-696969?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mehtasmeet/"></a> -->
    
 
 </p>
