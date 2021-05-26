@@ -13,7 +13,7 @@
 
 ---
 
-<!-- credits for gif https://gph.is/2pYEMXc -->
+<!-- credits for gif https://tenor.com/3o2m.gif -->
 <img align="right" height="150" width="210" src="giphy.gif"> 
 
 - 🔭 **I’m currently working on:** Learning Python , Upskilling in Cyber Security 
