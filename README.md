@@ -31,7 +31,7 @@
 
 [Smeet Mehta's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehtasmeet&show_icons=true)
 
-<body>
+<html>
    <svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg">
 	<style>
 		.header {
@@ -197,7 +197,7 @@
 	</g>
 </svg>
    
-   </body>
+   </html>
 
     
 
