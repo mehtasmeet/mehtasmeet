@@ -32,7 +32,6 @@
 <a href="https://mehtasmeet.com/"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=mehtasmeet&show_icons=true&&theme=dark" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehtasmeet&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=dark" /></a> 
 
 
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mehtasmeet&repo=Certifications&bg_color=778899)](https://github.com/mehtasmeet/Certifications)
 
 
