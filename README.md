@@ -29,6 +29,9 @@
 
 ---
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehtasmeet&show_icons=true&theme=radical)
+
+
 [Smeet Mehta's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehtasmeet&show_icons=true)
 
     
